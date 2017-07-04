@@ -1,9 +1,22 @@
 "*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "6289174c-74af-43ab-ae58-c4375c6078a5"
+    js:
+      brace_style: "expand"
   core:
+    packagesWithKeymapsDisabled: [
+      "atom-beautify"
+    ]
     telemetryConsent: "limited"
     themes: [
       "atom-light-ui"
       "one-dark-syntax"
     ]
+  editor: {}
   "exception-reporting":
     userId: "013405d3-86d3-4d93-aff2-47e9896ac040"
+  "git-diff":
+    showIconsInEditorGutter: true
+  welcome:
+    showOnStartup: false
