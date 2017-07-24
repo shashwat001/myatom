@@ -1,0 +1,142 @@
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(14965)] [.DisplayCompositor-0x17f7a67b300]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[7796:0720/172630:ERROR:gles2_cmd_decoder.cc(8113)] [.DisplayCompositor-0x17f7a67b300]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Failed to get crash dump id.
+Report Id: 
