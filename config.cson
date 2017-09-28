@@ -22,3 +22,6 @@
     showIconsInEditorGutter: true
   welcome:
     showOnStartup: false
+".js.regexp.replacement.source":
+  editor:
+    showIndentGuide: false
