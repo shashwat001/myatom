@@ -1,0 +1,97 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle encrypt-decrypt'
+      'command': 'encrypt-decrypt:encrypt-shift'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'encrypt-decrypt'
+      'submenu': [
+         {
+              'label': 'Analysis'
+              'submenu': [
+                {
+                  'label': 'frequency analysis'
+                  'command': 'encrypt-decrypt:frequency-analysis'
+                }
+            ]
+        },
+        {
+             'label': 'Transformation'
+             'submenu': [
+                {
+                    'label': 'transform charToCode'
+                    'command': 'encrypt-decrypt:transform-charToCode'
+                },
+                {
+                    'label': 'transform codeToChar'
+                    'command': 'encrypt-decrypt:transform-codeToChar'
+                },
+                {
+                    'label': 'transform toUpperCase'
+                    'command': 'encrypt-decrypt:transform-toUpperCase'
+                },
+                {
+                    'label': 'transform toLowerCase'
+                    'command': 'encrypt-decrypt:transform-toLowerCase'
+                }
+           ]
+       },
+       {
+            'label': 'Encrypt/Decrypt'
+            'submenu': [
+                {
+                    'label': 'encrypt caesar'
+                    'command': 'encrypt-decrypt:encrypt-caesar'
+                },
+                {
+                  'label': 'decrypt caesar'
+                  'command': 'encrypt-decrypt:decrypt-caesar'
+                },
+                {
+                  'label': 'encrypt vigenere'
+                  'command': 'encrypt-decrypt:encrypt-vigenere'
+                },
+                {
+                  'label': 'decrypt vigenere'
+                  'command': 'encrypt-decrypt:decrypt-vigenere'
+                },
+                {
+                  'label': 'encrypt aes'
+                  'command': 'encrypt-decrypt:encrypt-aes'
+                },
+                {
+                  'label': 'decrypt aes'
+                  'command': 'encrypt-decrypt:decrypt-aes'
+                },
+                {
+                  'label': 'encrypt des'
+                  'command': 'encrypt-decrypt:encrypt-des'
+                },
+                {
+                  'label': 'decrypt des'
+                  'command': 'encrypt-decrypt:decrypt-des'
+                },
+                {
+                  'label': 'encrypt md5'
+                  'command': 'encrypt-decrypt:encrypt-md5'
+                },
+                {
+                  'label': 'encrypt sha1'
+                  'command': 'encrypt-decrypt:encrypt-sha1'
+                },
+                {
+                  'label': 'encrypt sha256'
+                  'command': 'encrypt-decrypt:encrypt-sha256'
+                }
+          ]
+      }
+      ]
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "name": "encrypt-decrypt",
+  "main": "./lib/encrypt-decrypt",
+  "version": "0.3.2",
+  "description": "Encrypt and decrypt strings easily and others functionalities.",
+  "keywords": [
+    "encryption",
+    "decryption",
+    "transform",
+    "Caesar",
+    "Vigenere",
+    "MD5",
+    "SHA1",
+    "SHA-1",
+    "SHA256",
+    "SHA-256",
+    "AES",
+    "DES"
+  ],
+  "activationCommands": {
+    "atom-text-editor": [
+      "encrypt-decrypt:frequency-analysis",
+      "encrypt-decrypt:transform-charToCode",
+      "encrypt-decrypt:transform-codeToChar",
+      "encrypt-decrypt:transform-toUpperCase",
+      "encrypt-decrypt:transform-toLowerCase",
+      "encrypt-decrypt:encrypt-caesar",
+      "encrypt-decrypt:decrypt-caesar",
+      "encrypt-decrypt:encrypt-vigenere",
+      "encrypt-decrypt:decrypt-vigenere",
+      "encrypt-decrypt:encrypt-aes",
+      "encrypt-decrypt:decrypt-aes",
+      "encrypt-decrypt:encrypt-des",
+      "encrypt-decrypt:decrypt-des",
+      "encrypt-decrypt:encrypt-md5",
+      "encrypt-decrypt:encrypt-sha1",
+      "encrypt-decrypt:encrypt-sha256"
+    ]
+  },
+  "repository": "https://github.com/shashwat001/encrypt-decrypt",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "crypto-js": "^3.1.8"
+  }
+}
